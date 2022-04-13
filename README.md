@@ -1,9 +1,7 @@
+## 👋 Hi there
+ I'm a Communication in Digital Media student focusing my studies on UI/UX Design and decided to create this account to keep track of my journey on learning how to code. Feel free to check on my projects 🥸
 
-
-<h2 align="center">Hi there👋</h2>
-<p align="center">I'm a communication in digital media student focusing my studies on UI/UX Design and decided to create this account to keep track of my journey on learning how to code. Feel free to check my projects 🥸</p>
-
-<h2 align="left">Connect with me:</h2>
+###  Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/aluizamendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aluizamendes" height="30" width="40" /></a>
 <a href="https://www.behance.net/aluizamendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aluizamendes" height="30" width="40" /></a>
