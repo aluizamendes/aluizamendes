@@ -1,22 +1,20 @@
-## 👋 Hi there
- I'm a Communication in Digital Media student focusing my studies on UI/UX Design and decided to create this account to keep track of my journey on learning how to code. Feel free to check on my projects 🥸
+## 👋 Welcome
+- 🎓 I am a Communication in Digital Media student at UFPB
+- 📚 Focusing my studies on UI/UX Design
+- 💻 Member of the LAVID (UFPB) project
+- 👩‍💻 Learning how to code by my own
+<br>
 
-###  Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/aluizamendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aluizamendes" height="30" width="40" /></a>
-<a href="https://www.behance.net/aluizamendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aluizamendes" height="30" width="40" /></a>
-</p>
-<!--
-**aluizamendes/aluizamendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+ 
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aluizamendes&show_icons=true&theme=radical">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluizamendes&layout=compact&theme=radical">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+<div align="center">
+ <a href="https://www.behance.net/aluizamendes"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+ <a href="https://dribbble.com/aluizamendes"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+ <a href="https://www.linkedin.com/in/aluizamendes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href="https://www.instagram.com/luizamndes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</div>
