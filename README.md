@@ -1,7 +1,7 @@
 ## 👋 Welcome
 - 🎓 I am a Communication in Digital Media student at UFPB
 - 📚 Focusing my studies on UI/UX Design
-- 💻 Member of the LAVID (UFPB) project
+- 💻 Junior UI Designer at LAVID (UFPB)
 - 👩‍💻 Learning how to code by my own
 <br>
 
