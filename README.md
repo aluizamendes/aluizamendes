@@ -15,7 +15,7 @@
 
 <div align="left">  
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aluizamendes&show_icons=true&theme=transparent">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluizamendes&langs_count=6&layout=compact&theme=transparent">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluizamendes&langs_count=10&layout=compact&theme=transparent">
 </div>
 <br>
 
